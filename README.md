@@ -5,4 +5,4 @@ I'm interested in
 - teaching in programming and security,
 - research in didactics and computer security, particularly democracy-enhancing technologies.
 
-I teach Python and do a lot of automation in Python.
+I teach Python and security, I do a lot of automation in Python.
