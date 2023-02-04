@@ -1,4 +1,4 @@
-I’m Lecturer in Computer Science at the Department of Theoretical Computer Science, School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology.
+I’m Lecturer in Computer Science at the [Division of Theoretical Computer Science](https://www.kth.se/cs/tcs), [Department of Computer Science](https://www.kth.se/cs/) at the [School of Electrical Engineering and Computer Science](https://www.kth.se/en/eecs) of [KTH Royal Institute of Technology](https://www.kth.se).
 
 I'm interested in
 - e-learning and have developed distance courses/programmes since 2011,
